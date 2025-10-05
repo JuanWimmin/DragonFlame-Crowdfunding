@@ -53,11 +53,10 @@ Permite que los creadores lancen campañas donde los inversores reciben **tokens
 ## Project Structure / Estructura del Proyecto  
 
 CrowdFund/
-│
 ├── contracts/
+│ ├── DragonFlameCrowdfunding.sol
 │ ├── DragonFlameToken.sol
-│ ├── DragonFlameNFT.sol
-│ └── DragonFlameCrowdfunding.sol
+│ └── DragonFlameNFT.sol
 │
 ├── scripts/
 │ ├── deploy.js
